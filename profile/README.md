@@ -1,5 +1,7 @@
 # VNS Health
 
+formally the Visiting Nurse Service of New York (VNSNY)
+
 ## Business Intelligence and Analytics
 
-New York, NY, USA
+[Join our Team](https://www.vnshealth.org/about/careers/)
